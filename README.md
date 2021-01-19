@@ -6,3 +6,10 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI0AAACHCAYAAAArxdrDAAAAAXNSR0IArs
 
 
 https://main-ui-6pu2vt3af.whjr.dev/static/media/confetti.8f816cb2.png
+
+
+
+
+
+
+https://www.typing.com/dist/student/images/star-congrats-2.svg
