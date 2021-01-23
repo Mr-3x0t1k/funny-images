@@ -13,3 +13,5 @@ https://main-ui-6pu2vt3af.whjr.dev/static/media/confetti.8f816cb2.png
 
 
 https://www.typing.com/dist/student/images/star-congrats-2.svg
+
+https://yt3.ggpht.com/K-A-JNV1mtxTKEYjL41tgHoNLnTNs_o8IW5x0VXvRao1rbbxfa2azTG4F6OOZC9ysRml8FQI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
